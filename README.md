@@ -3,7 +3,8 @@
 BetterCMD is a Program looking to Improve upon the Standart Windows console.
 It features a better interface, a c compiler and so much more!
 
-You can download the source code in the "source" folder. 
+You can download the source code in the "source" folder.
+Download the .exe at https://drive.google.com/file/d/1vFWe0ccRjXON2vxPl-oAIrgkwTYgv730/view?usp=share_link
 Have fun!
 
 INFO: The source code is made to run the commands as .exe files, and not as .py files. If you want to run the source code, the change it a little bit.
