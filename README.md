@@ -9,4 +9,5 @@ Have fun!
 
 INFO: The source code is made to run the commands as .exe files, and not as .py files. If you want to run the source code, the change it a little bit.
 
-I'm currently working on rewriting every command in the cmd "library"
+I'm currently working on rewriting every command in the cmd "library" in Python or C/C++
+They are only in python for now, i wil rewrite most of the commands in C/C++, but that is not out yet.
